@@ -6,7 +6,7 @@ Air pollution has become a serious threat to our planet. it can cause diseases f
 
 ## Project Photos
 ![MIBAPMS](https://drive.google.com/uc?export=view&id=1FJmvvVvi2IczeJzP8-e5AXPd6yNsdbcP)
-![MIBAPMS](https://drive.google.com/open?id=1FJmvvVvi2IczeJzP8-e5AXPd6yNsdbcP)
+![MIBAPMS](https://drive.google.com/uc?export=view&id=1RAMVY_Y9ixd-mjBMb7SUkNhxdHG5N-LA)
 
 ## Project Proposal
 
