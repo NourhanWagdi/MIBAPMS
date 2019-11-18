@@ -5,8 +5,9 @@
 Air pollution has become a serious threat to our planet. it can cause diseases for people, such as pneumonia, asthma, and many other diseases that can lead to death, and it adversely affects the atmosphere and plays a great role in climate change. And to try to solve the issue we came up with an idea of making such an electronic device to monitor that pollution and trigger an alarm when the air quality goes down beyond certain levels, which means when there are sufficient amounts of harmful gases present in the air like **CO2, smoke, alcohol, benzene and NH3**. It will show the air quality in PPM on the LCD as well as on a webpage so that we can monitor it easily in order to avoid it or get rid of it. We have implemented our circuit against a **smart controlled Arduino robot car** which we can control using **a mobile app**, as a prototypical simulation to the real-life solution, where the System would be implemented against a moving vehicle through the suburbs of our city.
 
 ## Project Photos
-![MIBAPMS](https://drive.google.com/uc?export=view&id=1Nbcxw6h_QDaPJMopWovCJs4kwLyEtH0B)
+
 ![MIBAPMS](https://drive.google.com/uc?export=view&id=1G8YEpWvojOnQ81yBlpHC9NMfLyI-m0kq)
+![MIBAPMS](https://drive.google.com/uc?export=view&id=1Nbcxw6h_QDaPJMopWovCJs4kwLyEtH0B)
 
 ## Project Proposal
 
